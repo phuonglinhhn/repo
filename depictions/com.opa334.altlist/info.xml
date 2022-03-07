@@ -1,0 +1,20 @@
+<package>
+	<id>com.opa334.altlist</id>
+	<name>AltList</name>
+	<version>1.7.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>14.6</maxiOS>
+			<otherVersions>13.0</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>No</dependencies>
+	<descriptionlist>
+		<description>com.opa334.altlist</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>No Change. Already stable</change>
+	</changelog>
+	<links></links>
+</package>
